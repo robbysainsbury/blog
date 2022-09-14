@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Robert Sainsbury Blog
+title: Robert Sainsbury
 email: robby.sainsbury@gmail.com # Add your email 
 description: >- # this means to ignore newlines until "baseurl:"
  A portfolio of my data science projects.
@@ -39,7 +39,6 @@ instagram_username:
 pinterest_username:
 youtube_username: 
 googleplus_username: 
-
 
 # Build settings
 # removed minima theme to a regular theme
