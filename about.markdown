@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# About
+# About Me
+
+My name is Robby Sainsbury. I'm in the stats program at BYU.
