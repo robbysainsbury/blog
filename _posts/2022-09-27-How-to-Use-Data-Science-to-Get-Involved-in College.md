@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Use Data Science to Get Involved in College"
-date:   2022-09-28
+date:   2022-09-27
 author: Robert Sainsbury
 description: This post will show a BYU statistics student how to get involved in their other interests using their data science skills.
 image: 
