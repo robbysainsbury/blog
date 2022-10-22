@@ -29,10 +29,11 @@ The function read_html will return a list of all the html lists on the web page.
 Now its just a matter of shifting through the list to find the table I need, in this case it was the second table tag on the web page (I used a one while indexing the list because the index starts at 0).
 
 `epidemics = dfs[1]`
+`epidemics.to_csv("epidemics.csv")`
 
-Finally, I set up an object of just the dataframe I want and export as a csv for future use.
+Finally, I set up an object of just the dataframe I want and export it as a csv for future use.
 
-![Chart Image](https://github.com/robbysainsbury/stat386-projects/blob/main/assets/images/epiChart.png)
+![Chart Image](https://raw.githubusercontent.com/robbysainsbury/stat386-projects/main/assets/images/epiChart.png)
 
 The full code I used can be found at: 
 
