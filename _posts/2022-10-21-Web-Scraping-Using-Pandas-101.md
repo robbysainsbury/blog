@@ -7,5 +7,21 @@ description: A walkthrough of how to get data from the web, using epidemioligica
 image: 
 ---
 
-Blog content
+## Intro
+
+
+## Methods
+
+`import pandas as pd`
+
+`url = "https://en.wikipedia.org/wiki/List_of_epidemics"`
+
+`dfs = pd.read_html(url)`
+`len(dfs)`
+`dfs[1]`
+
+`epidemics = dfs[1]`
+`epidemics`
+
+# Conclusion
 
