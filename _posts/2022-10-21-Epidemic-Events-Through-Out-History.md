@@ -16,18 +16,25 @@ I wanted to find a data set of all the epidemics through out history. After a li
 In order to get it to a state I could use and analyze, I used the pandas library in Python. 
 Below I'll brifely go over the code I used to read it from the web into a data frame object, and then to save it as csv file.
 
+
 `import pandas as pd`
+I started off by importing the pandas library, which will allow me to read in and manipulate the data.
 
 `url = "https://en.wikipedia.org/wiki/List_of_epidemics"`
-
 `dfs = pd.read_html(url)`
+The function read_html will return a list of all the html lists on the web page.
+
 `len(dfs)`
 `dfs[1]`
+Now its just a matter of shifting through the list to find the table I need, in this case it was the second table tag on the web page (I used a one while indexing the list because the index starts at 0).
 
 `epidemics = dfs[1]`
-`epidemics`
+
+Finally, I set up an object of just the dataframe I want and export as a csv for future use.
 
 ![Chart Image](https://github.com/robbysainsbury/stat386-projects/blob/main/assets/images/epiChart.png)
+
+The full code I used can be found at: 
 
 # Conclusion
 
