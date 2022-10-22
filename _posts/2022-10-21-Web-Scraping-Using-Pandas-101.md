@@ -3,8 +3,8 @@ layout: post
 title:  "Web Scraping using Pandas 101"
 date:   2022-10-21
 author: Robert Sainsbury
-description: A walkthrough of how to get data from the web, using epidemioligical data as an example
-image: 
+description: A simple walkthrough of how to get data from the web, using epidemioligical data as an example.
+image: /assets/images/epiChart.png
 ---
 
 ## Intro
