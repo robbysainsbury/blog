@@ -43,5 +43,5 @@ The full code I used for the cleaning of the data and creation of these figures 
 The data I gathered through scraping wikipedia in my last post contains a lot of interesting patterns but it does demonstrate some of the limitations of web scraping. The lack of a common naming convention and abundance of notes in cells prevented me from using mutiple observations in the visualizations. The table was obviously not intended to be easily analyzed. Nonetheless I was able to explore the data through EDA and find patterns in the distributions of the diseases and locations relating to their death tolls and counts. Even among uncommon events like epidemicas there are extreme outliers that have devastationg impacts compared to the majority of other cases.
 
 # Invitation
-How would you recommend furhter cleaning this data? Let me know in the comments below!
+How would you recommend cleaning this data? Let me know in the comments below!
 
