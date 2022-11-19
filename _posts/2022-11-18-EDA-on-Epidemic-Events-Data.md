@@ -3,7 +3,7 @@ layout: post
 title:  "EDA on Epidemic Events Data"
 date:   2022-11-18
 author: Robert Sainsbury
-description: Exploring epidemiological data gathered through
+description: Exploring epidemiological data gathered through web scraping
 image: /assets/images/map.jpeg
 ---
 
@@ -39,4 +39,8 @@ The following two graphs are simialr to the above two, but with location repalci
 The full code I used for the cleaning of the data and creation of these figures can be found at: [https://github.com/robbysainsbury/codeForWebScrapingBlogPost]
 
 # Conclusion    
-This is just a little teaser for the exploratory analysis I'm excited to do on this data set! I want to look at the death toll of these diseases throughout time and whether their location impacts that as well! My next post will be all about that EDA.
+The data I gathered through scraping wikipedia in my last post contains a lot of interesting patterns but it does demonstrate some of the limitations of web scraping. The lack of a common naming convention and abundance of notes in cells prevented me from using mutiple observations in the visualizations. The table was obviously not intended to be easily analyzed. Nonetheless I was able to explore the data through EDA and find patterns in the distrubtions of the diseases and locations relating to their death tolls and counts. 
+
+# Invitation
+How would you recommend furhter cleaning this data? Let me know in the comments below!
+
