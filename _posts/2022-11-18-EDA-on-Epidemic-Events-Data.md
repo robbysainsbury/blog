@@ -36,7 +36,8 @@ The following two graphs are simialr to the above two, but with location repalci
 
 
 
-The full code I used for the cleaning of the data and creation of these figures can be found at: [https://github.com/robbysainsbury/codeForWebScrapingBlogPost]
+The full code I used for the cleaning of the data and creation of these figures can be found at: 
+*[https://github.com/robbysainsbury/codeForWebScrapingBlogPost]
 
 # Conclusion    
 The data I gathered through scraping wikipedia in my last post contains a lot of interesting patterns but it does demonstrate some of the limitations of web scraping. The lack of a common naming convention and abundance of notes in cells prevented me from using mutiple observations in the visualizations. The table was obviously not intended to be easily analyzed. Nonetheless I was able to explore the data through EDA and find patterns in the distrubtions of the diseases and locations relating to their death tolls and counts. 
