@@ -21,6 +21,8 @@ Anything farther back then that doesn't have estimates for death tolls. Today I 
 As you can see in the figure, over the past 450+ years there appears to be a decline in death tolls from epidemic events. The extreme events become rarer and less extreme as you near the modern day. It is also worth noting that the diseases that are responsible for the most epidemic events are often responsible for the most severe death tolls. This is interesting because a disease performs best when it's host survives long enough to transmit to other people. These diseases that appear the most on this list are very unique in the sense that they both exhibit lasting impacts over 100s of years and very high death tolls. With all that in mind, it seems that as modern medicine, sanitation, and public health have improved, both the severity and frequency of extreme events has decreased. 
 
 
+
+
 ## Conclusion  
 I have enjoyed working with this data set and learning more about a field that interests me. I think it is amazing that the power of data exploration and visualization allows this single figure to tell a story of declining death tolls from epidemic events. 
 
